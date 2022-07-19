@@ -47,6 +47,13 @@
 * ✔ Framework : `Any Framework`
 * ✔ Dependency : `Dependency`
 
+||운영체제(OS)|언어(Language)|프레임워크(Framework)|비고(Remark)|
+|-|:-:|:-:|:-:|:-:|
+|명칭(Name)|`Any Version`|`Any Language`|`Any Framework`|`Remark`|
+|버전(Version)|`Any Version`|`Any Version`|`Any Version`||
+
+[배지(Badge)](./Badge/BadgeTemplate.md)
+
 ### 확인 사항(Check List)
 
 * ✔ Check List A
