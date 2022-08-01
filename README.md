@@ -47,10 +47,10 @@
 * ✔ Framework : `Any Framework`
 * ✔ Dependency : `Dependency`
 
-||운영체제(OS)|언어(Language)|프레임워크(Framework)|비고(Remark)|
+||운영체제(OS)|언어(Language)|프레임워크(Framework)|종속성(Dependency)|
 |-|:-:|:-:|:-:|:-:|
-|명칭(Name)|`Any OS`|`Any Language`|`Any Framework`|`Remark`|
-|버전(Version)|`Any Version`|`Any Version`|`Any Version`||
+|명칭(Name)|`Any OS`|`Any Language`|`Any Framework`|`Ayn Dependency`|
+|버전(Version)|`Any Version`|`Any Version`|`Any Version`|`Any Link`|
 
 [배지(Badge)](./Badge/BadgeTemplate.md)
 

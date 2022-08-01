@@ -25,3 +25,9 @@
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![NODE](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+### 패키지 관리자(Package Manager)
+
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![PY-PI](https://img.shields.io/badge/PYPI-3775A9?style=flat-square&logo=PyPI&logoColor=white)
+![NuGet](https://img.shields.io/badge/NUGET-004880?style=flat-square&logo=NuGet&logoColor=white)
