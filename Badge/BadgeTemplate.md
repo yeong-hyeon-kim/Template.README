@@ -25,6 +25,7 @@
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![NODE](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=Node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 ### 패키지 관리자(Package Manager)
 
