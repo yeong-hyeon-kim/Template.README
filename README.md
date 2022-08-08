@@ -25,10 +25,10 @@
 
 ### 브라우저 지원(Browser Support)
 
-|||||
-|-|:-:|:-:|:-:|
-|명칭(Name)|![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)|![MicrosoftEdge](https://img.shields.io/badge/MicrosoftEdge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
-|버전(Version)|`Latest` ✔|`Latest` ✔|`Latest` ✔|
+|Chrome|Microsoft Edge|Firefox|
+|:-:|:-:|:-:|
+|![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)|![MicrosoftEdge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
+|`Latest` ✔|`Latest` ✔|`Latest` ✔|
 
 ### 배지 템플릿(Badge Template)
 
