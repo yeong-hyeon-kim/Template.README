@@ -1,40 +1,18 @@
-## 📕 프로젝트 개요(Introduce Project)
+# 📕 프로젝트(Project)
 
-### 프로젝트명
-
-* 프로젝트 간단 소개
+> 프로젝트를 간단하게 소개합니다.
 
 ## 🏷️ 기능(Function)
 
-1. [기능 A](#기능-A)
-2. [기능 B](#기능-B)
-3. [기능 C](#기능-C)
+프로젝트 기능을 작성합니다.
 
-### 세부 기능(Function Detail)
+- [기능](#기능)
 
-#### 기능 A
+## 💡 사용 예제(Usage Example)
 
-   1. 세부 기능 A
-   2. 세부 기능 B
-   3. 세부 기능 C
+코드와 설명을 통해 사용 방법을 자세히 설명합니다.
 
-#### 기능 B
-
-   1. 세부 기능 A
-   2. 세부 기능 B
-   3. 세부 기능 C
-
-#### 기능 C
-
-   1. 세부 기능 A
-   2. 세부 기능 B
-   3. 세부 기능 C
-
-## 💡 사용법(Tip)
-
- 1. 사용법 A
- 2. 사용법 B
- 3. 사용법 C
+- 사용 방법
 
 ## 💻 개발 환경(Develop Environment)
 
@@ -52,28 +30,22 @@
 |명칭(Name)|![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)|![MicrosoftEdge](https://img.shields.io/badge/MicrosoftEdge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
 |버전(Version)|`Latest` ✔|`Latest` ✔|`Latest` ✔|
 
-[배지(Badge)](./Badge/BadgeTemplate.md)
+### 배지 템플릿(Badge Template)
 
-### 확인 사항(Check List)
+- 더 많은 배지는 [배지 템플릿](./Badge/BadgeTemplate.md)에서 확인할 수 있습니다.
 
-* ✔ Check List A
-* ✔ Check List B
-* ✔ Check List C
+## 🔍 정보(Information)
 
-## 🛠️ 빌드(Build)
+### 🖋️ 저자(Author)
 
-* Build A
-* Build B
-* Build C
+- 이름 – author@example.com
 
-## 🧪 테스트(Test)
+### ⚖️ 라이센스(License)
 
-* Test A
-* Test B
-* Test C
+다음 라이센스를 준수하며 [License](./License)에서 자세한 정보를 확인할 수 있습니다.
 
 ## 📖 비고(Remark)
 
-* Remark A
-* Remark B
-* Remark C
+비고를 작성합니다.
+
+- Remark
