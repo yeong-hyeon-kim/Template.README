@@ -28,6 +28,12 @@
 ![TS-NODE](https://img.shields.io/badge/TSNODE-3178C6?style=flat-square&logo=ts-node&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
+### 브라우저(Browser)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![MicrosoftEdge](https://img.shields.io/badge/MicrosoftEdge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)
+
+
 ### 패키지 관리자(Package Manager)
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
