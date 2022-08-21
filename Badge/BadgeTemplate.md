@@ -24,15 +24,16 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black)
+![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![NODE](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TS-NODE](https://img.shields.io/badge/TSNODE-3178C6?style=flat-square&logo=ts-node&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 ### 브라우저(Browser)
+
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![MicrosoftEdge](https://img.shields.io/badge/MicrosoftEdge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)
-
 
 ### 패키지 관리자(Package Manager)
 
