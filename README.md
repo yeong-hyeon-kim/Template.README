@@ -38,7 +38,7 @@
 
 ### 🖋️ 저자(Author)
 
-- 이름 – author@example.com
+- [이름](https://github.com/) – author@example.com
 
 ### ⚖️ 라이센스(License)
 
