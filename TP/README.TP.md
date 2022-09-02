@@ -4,7 +4,9 @@
 
 * Logos   : [Simple Icons](https://simpleicons.org/)
 * Badge   : [shields.io](https://shields.io/)
-* Pattern : [https://img.shields.io/badge/`{표시할 내용(Content)}`-`{배경색(Background Color : HEX)}`?style=flat-square&logo=`{브랜드 로고(Logo)}`&logoColor=`{전경색(Foreground Color : White Or Black)}`](/)
+* Pattern : [https://img.shields.io/badge/`Content`-`Background-Color`?style=flat-square&logo=`Logo`&logoColor=`Foreground-Color`](/)
+
+* Pattern : [https://img.shields.io/badge/`표시할-내용`-`배경색`?style=flat-square&logo=`브랜드`&logoColor=`전경색`](/)
 
 ## 💌 배지 양식(Badge Template)
 
