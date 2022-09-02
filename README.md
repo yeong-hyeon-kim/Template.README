@@ -32,7 +32,7 @@
 
 ### README 템플릿(README Template)
 
-- [이곳](./TP/README.TP.md)에서 템플릿을 확인할 수 있습니다.
+- [이곳](README.BADGE.md)에서 템플릿을 확인할 수 있습니다.
 
 ## 🔍 정보(Information)
 
