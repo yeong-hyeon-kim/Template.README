@@ -6,7 +6,7 @@
 
 프로젝트 기능을 작성합니다.
 
-- [기능](#기능)
+- [기능](./)
 
 ## 💡 사용 예제(Usage Example)
 
@@ -30,7 +30,7 @@
 |![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)|![MicrosoftEdge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
 |`Latest` ✔|`Latest` ✔|`Latest` ✔|
 
-### README 템플릿(README Template)
+### 📝 README 템플릿(README Template)
 
 - [이곳](README.BADGE.md)에서 템플릿을 확인할 수 있습니다.
 
@@ -42,10 +42,8 @@
 
 ### ⚖️ 라이센스(License)
 
-다음 라이센스를 준수하며 [License](./License)에서 자세한 정보를 확인할 수 있습니다.
+- 다음 라이센스를 준수하며 [License](./License)에서 자세한 정보를 확인할 수 있습니다.
 
 ## 📖 비고(Remark)
 
-비고를 작성합니다.
-
-- Remark
+- 비고를 작성합니다.
