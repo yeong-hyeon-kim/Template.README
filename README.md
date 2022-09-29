@@ -30,7 +30,7 @@
 |![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)|![MicrosoftEdge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
 |`Latest` ✔|`Latest` ✔|`Latest` ✔|
 
-### README 템플릿(README Template)
+### 📝 README 템플릿(README Template)
 
 - [이곳](README.BADGE.md)에서 템플릿을 확인할 수 있습니다.
 
