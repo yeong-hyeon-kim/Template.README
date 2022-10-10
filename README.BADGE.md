@@ -79,9 +79,27 @@
 |명칭(Name)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)|![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TypeScript&logoColor=white)|![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black)|![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)|
 |버전(Version)|`Any Version`|`Any Version`|`Any Version`|`Any Link`|
 
+#### 리액트 (REACT) & 리덕스(REDUX)
+
+||운영체제(OS)|언어(Language)|프레임워크(Framework)|라이브러리(Library)|종속성(Dependency)|
+|-|:-:|:-:|:-:|:-:|:-:|
+|명칭(Name)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)|![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)|![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black)|![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white)|![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)|
+|버전(Version)|`Any Version`|`Any Version`|`Any Version`|`Any Version`|`Any Link`|
+
+||운영체제(OS)|언어(Language)|프레임워크(Framework)|라이브러리(Library)|종속성(Dependency)|
+|-|:-:|:-:|:-:|:-:|:-:|
+|명칭(Name)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)|![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TypeScript&logoColor=white)|![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black)|![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white)|![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)|
+|버전(Version)|`Any Version`|`Any Version`|`Any Version`|`Any Version`|`Any Link`|
+
 ### 🌐 브라우저 지원(Browser Support)
 
 |Chrome|Microsoft Edge|Firefox|
 |:-:|:-:|:-:|
 |![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)|![MicrosoftEdge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
 |`Latest` ✔|`Latest` ✔|`Latest` ✔|
+
+## 🔍 정보(Information)
+
+### 🖋️ 저자(Author)
+
+* [Yeonghyeon Kim](https://github.com/yeong-hyeon-kim) – codechemi@gmail.com
