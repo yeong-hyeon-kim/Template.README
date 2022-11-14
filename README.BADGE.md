@@ -42,6 +42,7 @@
 ### 패키지 관리자(Package Manager)
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/YARN-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![PY-PI](https://img.shields.io/badge/PYPI-3775A9?style=flat-square&logo=PyPI&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NUGET-004880?style=flat-square&logo=NuGet&logoColor=white)
 
