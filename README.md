@@ -38,7 +38,7 @@
 
 ### 🖋️ 저자(Author)
 
-- [이름](https://github.com/) – author@example.com
+- [Yeonghyeon Kim](https://github.com/yeong-hyeon-kim/) – codechemi@gmail.com
 
 ### ⚖️ 라이센스(License)
 
