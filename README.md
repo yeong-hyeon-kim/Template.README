@@ -23,6 +23,12 @@
 |명칭(Name)|`Something OS`|`Something Language`|`Something Framework`|`Something Dependency`|
 |버전(Version)|`Any Version`|`Any Version`|`Any Version`|`Any Link`|
 
+### 🗂️ 라이브러리(Libraries)
+
+|명칭(Name)|버전(Version)|
+|:-:|:-:|
+|`Any Name`|`Any Version`|
+
 ### 🌐 브라우저 지원(Browser Support)
 
 |Chrome|Microsoft Edge|Firefox|

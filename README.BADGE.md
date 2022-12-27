@@ -92,6 +92,14 @@
 |명칭(Name)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)|![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TypeScript&logoColor=white)|![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black)|![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white)|![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)|
 |버전(Version)|`Any Version`|`Any Version`|`Any Version`|`Any Version`|`Any Link`|
 
+### 🗂️ 라이브러리(Libraries)
+
+|명칭(Name)|버전(Version)|
+|:-:|:-:|
+|![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white)|`Any Version`|
+|![REACT-SAGA](https://img.shields.io/badge/REACT_SAGA-999999?style=flat-square&logo=Redux-Saga&logoColor=white)|`Any Version`|
+|![STYLED-COMPONENTS](https://img.shields.io/badge/STYLED_COMPONENTS-DB7093?style=flat-square&logo=styled-components&logoColor=white)|`Any Version`|
+
 ### 🌐 브라우저 지원(Browser Support)
 
 |Chrome|Microsoft Edge|Firefox|
