@@ -106,9 +106,3 @@
 |:-:|:-:|:-:|
 |![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)|![MicrosoftEdge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
 |`Latest` ✔|`Latest` ✔|`Latest` ✔|
-
-## 🔍 정보(Information)
-
-### 🖋️ 저자(Author)
-
-* [Yeonghyeon Kim](https://github.com/yeong-hyeon-kim) – codechemi@gmail.com
