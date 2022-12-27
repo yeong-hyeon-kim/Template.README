@@ -1,6 +1,6 @@
 # 📕 프로젝트(Project)
 
-> 프로젝트를 간단하게 소개합니다.
+- 프로젝트를 간단하게 소개합니다.
 
 ## 🏷️ 기능(Function)
 
@@ -20,14 +20,14 @@
 
 ||운영체제(OS)|언어(Language)|프레임워크(Framework)|종속성(Dependency)|
 |-|:-:|:-:|:-:|:-:|
-|명칭(Name)|`Something OS`|`Something Language`|`Something Framework`|`Something Dependency`|
-|버전(Version)|`Any Version`|`Any Version`|`Any Version`|`Any Link`|
+|명칭(Name)|`OS`|`Language`|`Framework`|`Dependency`|
+|버전(Version)|`Version`|`Version`|`Version`|`Link`|
 
 ### 🗂️ 라이브러리(Libraries)
 
 |명칭(Name)|버전(Version)|
 |:-:|:-:|
-|`Any Name`|`Any Version`|
+|`Name`|`Version`|
 
 ### 🌐 브라우저 지원(Browser Support)
 
@@ -36,9 +36,9 @@
 |![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)|![MicrosoftEdge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)
 |`Latest` ✔|`Latest` ✔|`Latest` ✔|
 
-### 📝 README 템플릿(README Template)
+### 📝 README 템플릿(Template)
 
-- [이곳](README.BADGE.md)에서 템플릿을 확인할 수 있습니다.
+- [이곳(This)](README.BADGE.md)에서 템플릿을 확인할 수 있습니다.
 
 ## 🔍 정보(Information)
 
